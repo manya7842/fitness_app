@@ -1,6 +1,6 @@
 ## fitness_app
 
-A new Flutter project.
+A fitness-tracking app UI using Flutter. 
 
 <img width="536" alt="image" src="https://github.com/user-attachments/assets/47c5395b-da2b-4c30-b6ef-aae2d8796b9a">
 
